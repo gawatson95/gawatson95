@@ -1,6 +1,7 @@
-# Grant Watson (he/him)
+# Grant Watson (he/him) || SwiftUI
 
-An iOS developer passionate about being part of exploring & bettering lives through technology. Lover of all things Apple. 
+An iOS developer passionate about being part of exploring & bettering lives through technology.
+
 
 ## Current Project
 ### Circle of Truth
@@ -11,21 +12,26 @@ conversations.
   
   [Download in the Apple App Store](https://apps.apple.com/us/app/circle-of-truth/id1632635684)
   
+  
 ## Hobbies
-  Running
+  Running outside
   
-  Reading
+  Reading a good book after a long day
   
-  Concerts
+  Concerts of any genre 
   
-  Rollerblading
+  Rollerblading alongside the river
   
-  Camping
+  Camping in the woods with friends
   
-  <img align="center" alt="Cal's GitHub Stats" src="https://github-readme-stats-lake-five.vercel.app/api?username=calcorbin&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+  ## GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gawatson95&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
   
 
 ## Get In Touch
 - [Portfolio](https://bit.ly/gwcoding/)
 - [LinkedIn](https://linkedin.com/in/gawatson95)
 - [Resume](https://bit.ly/gwcoding_resume)
+
+
+#### "It’s always wrong to hate, but it’s never wrong to love." - Lady Gaga
