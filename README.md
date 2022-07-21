@@ -14,7 +14,7 @@ conversations.
   [Download in the Apple App Store](https://apps.apple.com/us/app/circle-of-truth/id1632635684)
   
   
-## Hobbies ending in -ing
+## Non-coding favorites
   🏃🏻 Running outside
   
   📚 Reading a good book after a long day
