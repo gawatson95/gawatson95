@@ -21,7 +21,7 @@ conversations.
   
   🎶 Going to concerts
   
-  🛼 Rollerblading alongside the river
+  🛼 Rollerblading along the river
   
   🏕 Camping in the woods with friends
   
