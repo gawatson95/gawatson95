@@ -1,4 +1,4 @@
-# Grant Watson (he/him) || SwiftUI 📱
+# Grant Watson (he/him) || 📱
 
 An iOS developer passionate about being part of exploring & bettering lives through technology.
 
