@@ -15,15 +15,15 @@ conversations.
   
   
 ## Non-coding favorites
-  🏃🏻 Running outside
+  🏃🏻 Running
   
-  📚 Reading a good book after a long day
+  📚 Reading
   
-  🎶 Going to concerts
+  🎶 Concerts
   
-  🛼 Rollerblading along the river
+  🛼 Rollerblading
   
-  🏕 Camping in the woods with friends
+  🏕 Camping
   
 
 ## Get In Touch
