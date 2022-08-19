@@ -14,17 +14,16 @@ conversations.
   [Download in the Apple App Store](https://apps.apple.com/us/app/circle-of-truth/id1632635684)
   
   
-## Non-coding favorites
-  🏃🏻 Running
-  
-  📚 Reading
+## When I'm Not Coding
+  🏕 Camping
   
   🎶 Concerts
   
+  📚 Reading
+
   🛼 Rollerblading
   
-  🏕 Camping
-  
+  🏃🏻 Running
 
 ## Get In Touch
 - [Portfolio](https://bit.ly/gwcoding)
@@ -32,4 +31,4 @@ conversations.
 - [Resume](https://bit.ly/gwcoding_resume)
 
 
-#### "It’s always wrong to hate, but it’s never wrong to love." - Lady Gaga
+###### "For being different, it’s easy. But to be unique, it’s a complicated thing." - Lady Gaga
