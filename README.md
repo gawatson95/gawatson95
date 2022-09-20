@@ -28,7 +28,7 @@ conversations.
 ## Get In Touch
 - [Portfolio](https://bit.ly/gwcoding)
 - [LinkedIn](https://linkedin.com/in/gawatson95)
-- [Resume](https://github.com/gawatson95/gawatson95/files/9483095/Grant.Watson.pdf)
+- [Resume](https://github.com/gawatson95/gawatson95/files/9608628/Grant.Watson.pdf)
 
 
 
