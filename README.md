@@ -29,7 +29,3 @@ conversations.
 - [Portfolio](https://bit.ly/gwcoding)
 - [LinkedIn](https://linkedin.com/in/gawatson95)
 - [Resume](https://github.com/gawatson95/gawatson95/files/9608628/Grant.Watson.pdf)
-
-
-
-###### "For being different, it’s easy. But to be unique, it’s a complicated thing." - Lady Gaga
