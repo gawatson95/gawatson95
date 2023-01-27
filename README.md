@@ -15,15 +15,13 @@ conversations.
   
   
 ## When I'm Not Coding
-  🏕 Camping
-  
   🎶 Concerts
   
   📚 Reading
 
   🛼 Rollerblading
   
-  🏃🏻 Running
+  🏋🏻 Gym
 
 ## Get In Touch
 - [Portfolio](https://bit.ly/gwcoding)
